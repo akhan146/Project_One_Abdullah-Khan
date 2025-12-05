@@ -18,7 +18,6 @@ from src.library_name import (
     is_common_password
 )
 
-
 # Example passwords to demo
 demo_passwords = ["password123!", "Abc$1234", "StrongPass#2025", "aaAA11!!"]
 
